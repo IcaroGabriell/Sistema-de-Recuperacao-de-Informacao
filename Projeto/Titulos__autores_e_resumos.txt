@@ -1,0 +1,439 @@
+ARTIGO 1
+Título: Teste de Software: o que e como é ensinado?
+Autor: Fabiane Barreto Vavassori Benitti, Edson Lucas Albano 
+Resumo: A qualidade do software está cada vez mais sendo exigida pelo 
+mercado e, neste contexto, ganham destaque as atividades relacionadas ao 
+teste de software. Assim, este artigo explora o que deve ser ensinado sobre 
+teste de software, bem como identifica práticas de ensino que tenham 
+apresentado bons resultados. Para tanto, inicialmente é apresentada uma 
+pesquisa documental, envolvendo diretrizes curriculares e planos de ensino, 
+para apontar o que deve ser ensinado na área. Posteriormente, é apresentado 
+um mapeamento sistemático envolvendo recursos e técnicas para o ensino de 
+teste de software. Os resultados apontam uma lista de conceitos, bem como 
+apresentam 5 abordagens de ensino e 4 recursos computacionais. 
+
+
+
+ARTIGO 2
+Título: Uma Abordagem de Avaliação de Qualidade de Aplicações Web
+Autor: Edson Andrade de Moraes,Vera Maria Benjamim Werneck
+Resumo: O desenvolvimento e avaliação de software tradicional 
+normalmente não são totalmente adequados ao 
+desenvolvimento de aplicativos na Web. Esses sistemas 
+devem ser desenvolvidos com enfoque forte no usuário e 
+ter um ciclo de vida de rápido e uma grande preocupação 
+com acessibilidade. Este trabalho descreve uma 
+abordagem de avaliação de qualidade, proposta para 
+avaliação de sites Web dentro do ambiente GEST@OTI. 
+Esse ambiente fornece apoio à organização no 
+desenvolvimento, escolha de pacotes e implantação de 
+soluções de tecnologia, com foco nos processos de 
+negócio. A principio esta abordagem pode ser aplicada a 
+qualquer produto resultante do desenvolvimento do site 
+Web principalmente em um processo incremental ou de 
+prototipagem.
+
+ARTIGO 3
+Título: Um Modelo para Avaliação da Qualidade  
+da Gerência de Projetos de Software
+Autor: Eliseu Castelo Branco Júnior, Arnaldo Dias Belchior
+Resumo: Este trabalho desenvolve um modelo para avaliar a qualidade de processos gerenciais de software, 
+considerando as áreas de gerência do PMBOK, com suas respectivas categorias de processos, em aderência à visão 
+de qualidade de processos abordada no ISO/IEC TR 15504, em consonância com as normas ISO/IEC 12207, ISO 
+10006, e ISO/IEC DTR 16326. É apresentado o resultado de uma pesquisa de campo, realizada com gerentes de 
+projetos e especialistas em computação, sobre a importância de processos gerenciais em projetos de software. Esses 
+resultados foram obtidos e validados através de um modelo para a avaliação da qualidade de software. 
+
+ARTIGO 4
+Título: Aplicação de Métricas de Manutebilidade na Re-fatoração de Softwares 
+Autor: Bruno Nascimento Ferreira, Júlio Arakaki
+Resumo: A maioria das atividades a serem realizadas nas manutenções do software 
+geralmente consomem cerca de 70% do custo total do projeto. Para reduzir o custo destas 
+manutenções, a re-fatoração torna-se uma estratégia que importante que poderá ser aplicada 
+no software em análise. Identificar o momento no qual a refatoração é recomendada pode 
+demandar um mesmo esforço do que prever as futuras alterações no referido código. As 
+técnicas que realizam esta identificação dependem da inspeção do código por especialistas. 
+Neste estudo, desenvolve-se uma abordagem para apoiar a decisão da refatoração de trechos 
+de código em sistemas orientados a objetos, diminuindo a subjetividade da avaliação de 
+especialistas. Estuda-se neste trabalho, a relação entre trechos de código de alterações no 
+sistema e a decisão dos especialistas sobre a necessidade de refatoração do código alterado, 
+utilizando-se de algumas métricas de manutenabilidade, como o Índice de Manutenabilidade, 
+Complexidade Ciclomática e as Métricas de Chidamber e Kemerer Desse modo, são 
+identificadas as métricas mais representativas para a avaliação da refatoração e aplicando-se 
+métodos de regressão, é elaborada uma fórmula que aponta quando os valores das métricas 
+indicam o momento no qual os especialistas recomendam a refatoração. Ao aplicar-se a 
+fórmula obtida nesta pesquisa, obteve-se como resultado, uma possível previsão sobre a 
+necessidade de refatoração em pelo menos 86,67% dos casos analisados. 
+
+ARTIGO 5
+Título: Do Code Smell ao Código Limpo: Uma Experiencia Pratica no
+Ensino de Refatoracao para Manutencao de Software
+Autor: Jo˜ ao Teixeira do Nascimento, Caio Rian R. de Sousa,
+Lara Gabrielly Lima, Edivar C. Carvalho Filho,
+Guilherme P. Borges, Jacilane H. Rabelo, Carla Ilane Moreira Bezerra
+Resumo: Ensinar futuros profissionais de Computac¸˜ao a escrever c´odigo de
+alta qualidade ´e essencial. Este trabalho apresenta um relato de experiˆencia
+sobre o ensino de code smells e refatorac¸˜ao de c´odigo em uma turma de
+manutenc¸˜ao de software composta por 42 estudantes. Foram analisados qua
+tro aspectos: (i) a percepc¸˜ao dos alunos sobre a qualidade das refatorac¸˜oes,
+(ii) os desafios enfrentados na identificac¸˜ao e correc¸˜ao de code smells, (iii) as
+habilidades desenvolvidas e os benef´ıcios adquiridos com a pr´atica, e (iv) as
+t´ecnicas mais utilizadas na refatorac¸˜ao de code smells. Os resultados destacam
+os benef´ıcios de ensinar refatorac¸˜ao de code smells e prop˜oem uma metodologia
+pr´atica para esse ensino
+
+ARTIGO 6
+Título: Priorização de requisitos e avaliação da qualidade 
+de software segundo a percepção dos usuários
+Autor: Aline Gomes Cordeiro, André Luís Policani Freitas
+Resumo: Atualmente softwares têm sido reconhecidos como 
+importante ferramenta de apoio às diversas atividades 
+e à tomada de decisões. No entanto, existem relatos a 
+respeito de projetos de desenvolvimento de software 
+fracassados. A questão problema apresentada por este 
+artigo é a seguinte: Como é possível realizar a avaliação 
+da qualidade de um produto de software desde as 
+etapas iniciais do projeto, de forma que seja possível 
+realizar as melhorias com menor esforço? O artigo traz 
+uma abordagem metodológica para a priorização dos 
+requisitos de software e a avaliação da qualidade do 
+produto de software, segundo a percepção dos usuários. 
+Em especial, a abordagem propõe o emprego da Análise 
+Importância-Desempenho (IPA) e do método dos 100 
+pontos para a etapa de priorização, e para a etapa de 
+avaliação de desempenho, o emprego da IPA e da escala 
+contínua. Por meio de estudo de caso, a abordagem 
+proposta foi aplicada a um projeto de desenvolvimento 
+de software para gestão de recursos humanos. A partir 
+desse uso foi possível captar os julgamentos, determinar 
+as prioridades dos requisitos conforme a percepção dos 
+usuários e sugerir ações relevantes com o objetivo de 
+melhorar a qualidade do software. Acredita-se que a 
+abordagem proposta seja aplicável ao desenvolvimento 
+de produtos de software de pequeno porte.
+
+ARTIGO 7
+Título: Uma Ontologia de Qualidade de Software
+Autor: Katia Cristina Duarte, Ricardo de Almeida Falbo
+Resumo: O primeiro passo em direção à qualidade de software consiste em entender seus 
+conceitos para poder aplicá-los consistentemente. Infelizmente, não há consenso sobre a 
+terminologia usada, o que provoca vários problemas, principalmente de interpretação, quando 
+da definição de um programa de qualidade. Neste artigo, apresentamos uma ontologia de 
+qualidade de software com o objetivo de apoiar a compreensão deste complexo domínio. A 
+meta é utilizar essa ontologia como uma base para o entendimento comum sobre os conceitos 
+de qualidade de software em um tutorial.
+
+ARTIGO 8
+Título: Entendendo a relação entre integração contínua e
+cobertura de código
+Autor: José Diego Saraiva da Silva
+Resumo: Integração Contínua, em inglês Continuous Integration (CI), é uma prática
+amplamente adotada na engenharia de software que enfatiza a integração frequente
+do software por meio de um processo de builds automatizado. Embora tenha sido
+demonstrado que a CI detecta erros mais cedo no ciclo de vida do software, a relação
+entre CI e cobertura de código ainda precisa ser esclarecida. Nosso trabalho tem como
+objetivo preencher essa lacuna investigando os aspectos quantitativos e qualitativos dessa
+relação.
+No estudo quantitativo, comparamos 30 projetos com CI e 30 projetos que nunca
+adotaram CI (projetos NOCI) para investigar se a CI está associada a maiores taxas
+de cobertura de código. Analisamos 1.440 versões de diferentes projetos para identificar
+tendências na cobertura de código. Nossas descobertas revelam uma associação positiva
+entre a CI e maiores taxas de cobertura de código.
+Nosso estudo qualitativo consistiu em um survey e uma análise de documentos.
+A pesquisa revelou várias descobertas significativas, incluindo uma associação positiva
+entre a integração contínua (CI) e maiores taxas de cobertura de código, indicando o valor
+da CI na promoção de práticas de teste. Ademais, nossa pesquisa enfatizou a relevância
+do uso de cobertura de código durante o processo de autoria e revisão, pois isso pode
+auxiliar na detecção precoce de possíveis problemas ao longo do ciclo de desenvolvimento.
+A análise de documentos se concentrou em temas relacionados à cobertura
+nas discussões dos Pull Requests de projetos que adotam CI. A partir dessa análise,
+identificamos os principais tópicos associados ao uso da cobertura durante os Pull
+Requests, o que pode fornecer informações valiosas sobre como os desenvolvedores utilizam
+a cobertura para aprimorar a qualidade do código. Essas informações são capazes de
+orientar o desenvolvimento de melhores práticas para o uso da cobertura em projetos
+que adotam CI, contribuindo para aprimorar a qualidade e a confiabilidade dos produtos
+de software.
+O nosso trabalho permitiu encontrar percepções sobre a evolução da cobertura de
+código em projetos que adotam CI, as quais podem auxiliar pesquisadores e profissionais
+a adotarem ferramentas e práticas para monitorar, manter e, inclusive, aprimorar a
+cobertura de código.
+
+ARTIGO 9
+Título: Uma abordagem para análise de cobertura de
+código em cenários de evolução
+Autor: Fladson Thiago Oliveira Gomes
+Resumo: Atualmente, a etapa de testes no processo de desenvolvimento de software tornou-se im
+prescindível para garantir a confiabilidade e qualidade do código em produção. As cons
+tantes evoluções na arquitetura e código de um sistema, criam sérios desafios para os
+desenvolvedores e testadores, uma vez que modificações podem não se comportar como o
+esperado. Neste contexto surge a necessidade de ferramentas e mecanismos que diminuam
+oimpactonegativogeradopelasconstantesevoluçõesdosistema.Dentreasferramentas
+que analisam esse impacto, poucas apresentam os fluxos de execução entre métodos que
+foram afetados e nenhuma apresenta como resultado se esses fluxos afetados pela evolução
+estão ou não cobertos pelos testes. Assim, este trabalho apresenta uma abordagem que
+tem como objetivo principal: (i) analisar a cobertura de código levando em consideração
+os fluxos de chamadas existentes no sistema que foram afetados por evoluções de código,
+assim como os fluxos de execução oriundos da execução dos testes; (ii) indicar quais fluxos
+de chamadas do sistema que possuem métodos modificados e não estão sendo cobertos
+pelos testes atualmente e que, portanto, poderiam ser considerados para melhorar a qua
+lidade dos testes; e (iii) indicar se houve degradação na qualidade da suíte de testes. Um
+estudo empírico foi realizado em 6 sistemas e os resultados mostram que a abordagem
+conseguiu identificar entre 19% e 92% de fluxos de execução afetados por mudanças que
+não estão cobertos e ainda que 3 dos 6 sistemas tiveram uma degradação na qualidade
+dos testes.
+
+
+ARTIGO 10
+Título: Comparac¸˜ ao de ferramentas de an´ alise est´ atica para detecc¸˜ ao
+de defeitos de software usando mutantes
+Autor: Yury Alencar Lima, Igor Oliveira Fonseca, Jonas M. Chagas,
+Elder de Macedo Rodrigues, Maicon Bernardino da Silveira, Jo˜ ao Pablo S. da Silva
+Resumo: A an´alise est´atica de c´odigo ´e uma t´ecnica aplicada na etapa de
+verificac¸˜ao de um software, com o objetivo de identificar defeitos sem a ne
+cessidade da execuc¸˜ao da aplicac¸˜ao. Atualmente existem diversas ferramentas
+de an´alise est´atica dispon´ıveis no mercado, onde cada uma possui suas par
+ticularidades e diferentes escopos de an´alise. Portanto, escolher a ferramenta
+correta a ser usada n˜ao ´e uma atividade trivial. Este estudo tem como objetivo
+comparar duas ferramentas de an´alise est´atica de c´odigo sendo elas o Sonar
+Qube e o PMD, analisando a sua efic´acia na identificac¸˜ao de defeitos em um
+c´odigo de software. Com esta finalidade foram criados mutantes a partir de
+projetos Open Source, que auxiliaram a verificar a efic´acia das ferramentas.
+
+ARTIGO 11
+Título: UmMapeamento Sistemático sobre Técnicas de Classificação
+e Categorização de Bugs em Software
+Autor: Igor Ramsés Temóteo dos Santos, Laís Carvalho Coutinho, Samuel Sousa Teles, Rubens Abraão da Silva Sousa, Manoel Lopes Filho, Ronaldo Tadeu Pontes Milfont, Alex Lacerda Ramos
+Resumo: Este estudo é um mapeamento sistemático da literatura sobre as abordagens de classificação e categorização
+de bugs em software, analisando 33 artigos finais publicados entre 2019 e 2024. O protocolo foi conduzido seguindo o
+modelo PRISMA, utilizando a ferramenta Parsifal para triagem, e a busca foi realizada nas bases ISI Web of Science,
+IEEE Xplore, Scopus e Engineering Village. A síntese dos dados foi realizada através de análise qualitativa e extração
+padronizada, focando em técnicas, tipos de dados, contextos de aplicação e critérios de categorização. A pesquisa revelou
+a predominância de algoritmos supervisionados (como Naive Bayes e Support Vector Machine) e a dependência de dados
+textuais não estruturados de repositórios open-source como Mozilla e Eclipse. A exclusividade de dados open-source
+restringe a compreensão do ciclo de vida dos bugs em contextos industriais. Consequentemente, identifica-se a necessidade
+de pesquisas futuras que explorem ambientes corporativos e a integração de modelos híbridos (dados estruturados e
+não-estruturados) para melhor reflexão do ciclo de vida dos bugs.
+
+ARTIGO 12
+Título: Detecção automática de falhas em software JavaScript:
+Uma revisão sistemática da literatura
+Autor: Charles Mendes de Macedo, Karina Valdivia Delgado, Igor Wiese
+Resumo: As aplica¸c˜oes desenvolvidas com a linguagem JavaScript,
+vˆem aumentando a cada dia, n˜ao somente aquelas basea
+das em Web (client-side), como tamb´em as aplica¸c˜oes para
+servidor (server-side) e dispositivos m´oveis (mobile). Neste
+contexto, a necessidade de ferramentas para identifica¸c˜ao
+de falhas ´e fundamental, para auxiliar desenvolvedores du
+rante a evolu¸c˜ao destas aplica¸c˜oes. Diferentes ferramentas
+e abordagens tˆem sido propostas ao longo dos anos e este
+conhecimento encontra-se fragmentado na literatura, o que
+dificulta os desenvolvedores a escolherem as melhores ferra
+mentas para identifica¸c˜ao de falhas. Desta forma, o obje
+tivo desta pesquisa ´e analisar sistematicamente os m´etodos
+e ferramentas que est˜ao sendo utilizadas para detec¸c˜ao au
+tom´atica de falhas em software escrito em JavaScript. Al´em
+de catalogar as falhas mais procuradas pelos estudos em
+cada ambiente e identificar as lacunas existentes na ´area.
+Para tal, foi realizada uma revis˜ao sistem´atica da literatura
+(RSL), que resultou em 19 estudos prim´arios relevantes para
+o objetivo desta pesquisa. A maioria desses estudos est˜ao
+voltados para ambiente Web (client-side), mostrando a falta
+de trabalhos para detec¸c˜ao de falhas em ambientes server
+side e multiplataforma.
+
+ARTIGO 13
+Título: A APLICAÇÃO DE LLMS NA DETECÇÃO E CORREÇÃO DE BUGS: Uma revisão da 
+literatura 
+Autor: Gabriel R. RODRIGUES; Paulo C. SANTOS 
+Resumo: Este trabalho, do tipo Revisão Bibliográfica, investiga a produção científica sobre a aplicação de Modelos de 
+Linguagem de Grande Escala (LLMs), como GPT-4 e Code Llama, na detecção e correção de bugs. A partir de uma 
+revisão da literatura, foram analisadas pesquisas recentes que evidenciam o desempenho superior dos LLMs em 
+comparação aos métodos tradicionais, com destaque para a alta taxa de precisão. Entretanto, os estudos também 
+apontam desafios recorrentes, como a dificuldade em lidar com falhas de raciocínio lógico e a dependência da qualidade 
+dos dados. O processo de seleção incluiu 72 artigos inicialmente recuperados, dos quais 20 compuseram a amostra final 
+após aplicação de filtros de inclusão, exclusão e critérios de qualidade científica. A análise mostra que os LLMs 
+representam um avanço significativo para a automação da depuração, embora a validação humana e o controle de vieses 
+permaneçam cruciais.
+
+ARTIGO 14
+Título: “Geração automática de casos de testes executáveis
+a partir de casos de teste abstratos
+para aplicações web
+Autor: Érika Regina Campos de Almeida
+Resumo: A automação da geração e da execução de casos de teste está de acordo com o grande
+desafio na área de desenvolvimento de software que é fazer mais com menos recursos. En
+tretanto, para unir estes dois processos, ainda é necessário fazer a ponte entre o nível de
+especificação do Sistema em Teste (SeT) e sua respectiva implementação. O processo de
+geração de casos de teste usualmente requer uma representação formal do SeT (baseada
+nos documentos de especificação do SeT) e gera casos de teste abstratos, no sentido que
+eles estão no mesmo nível de detalhamento das especificações. Já a execução automática
+de casos de teste necessita de casos de teste executáveis, ou seja, aqueles que contêm
+detalhes de implementação do SeT para serem executados sem intervenção manual. Para
+usar automação desde a fase de projeto de teste até a fase de execução, é necessário pre
+encher a lacuna entre o caso de teste abstrato (artefato de saída da geração automática
+de casos de teste) e o executável (artefato de entrada da execução automática de teste),
+pois eles estão em níveis de abstração diferentes. Usualmente, alguém com habilidades
+de programação realiza o processo de transformação do nível abstrato para o de imple
+mentação, despendendo muito esforço e tempo. Neste trabalho, avaliamos as propostas
+para mapeamento automático de casos de teste abstratos em executáveis existentes na
+literatura que estão de acordo com Teste Dirigido por Modelo (MDT), abordagem cujo
+intuito é gerar automaticamente artefatos de teste de software em diferentes níveis de
+abstração aplicando regras de transformação. Além de avaliar as propostas, escolhemos
+uma delas para instanciar para aplicações Web (as aplicações que mais cresceram nos
+últimos anos, tanto em uso, como em nível de complexidade), mostrando quais são os
+passos necessários para transformar os casos de teste abstratos em executáveis, levando
+em conta que existem bibliotecas especializadas no suporte à escrita deste último. Para
+avaliar a aplicabilidade da solução em aplicações Web reais, realizamos o estudo de caso
+usando aplicações Web de grande porte, duas delas de uso nacional e outra disseminada
+em escala mundial. Além disso, foi realizado o processo completo de teste (geração dos
+casos de teste abstratos; uso da proposta de instanciação, para aplicações Web, do mé
+todo para transformar os casos de teste abstratos em executáveis; e execução dos testes),
+ilustrando a factibilidade da solução.
+
+
+ARTIGO 15
+Título: Seleção de Técnicas de Teste Baseado em Modelos
+Autor: Arilo Claudio Dias Neto, Guilherme Horta Travassos
+Resumo:  Esta tese propõe uma abordagem para apoiar a seleção combinada 
+de Técnicas de Teste Baseado em Modelos (TTBMs) para projetos de 
+software, chamada Porantim, formada por (1) um corpo de conhecimento 
+composto por 219 TTBMs identificadas na literatura técnica e (2) um 
+processo de apoio à seleção de TTBMs que provê indicadores de 
+adequabilidade de TTBMs a projetos de software a partir de suas 
+características técnicas. Resultados de avaliação experimental indicam que 
+esta abordagem contribui para melhorar a efetividade e eficiência do 
+processo de seleção de TTBMs quando comparada a outra abordagem de 
+seleção disponível na literatura técnica. Em complemento, é apresentada a 
+infraestrutura computacional de apoio à seleção de TTBMs para projetos de 
+software e sua avaliação em uma organização de software internacional. 
+
+ARTIGO 16
+Título: AUTOMAÇÃO DE TESTE DE SOFTWARE ATRAVÉS DE 
+LINHAS DE PRODUTOS E TESTES BASEADOS EM 
+MODELOS
+Autor: LEONARDO DAVI VICCARI
+Resumo: Com o crescimento da dependência de inúmeras atividades humanas por sistemas 
+computacionais, cresce também a expectativa dos usuários, que querem não apenas a automação 
+de processos, mas também crescentes qualidade e agilidade na entrega de informações e serviços. 
+A forma mais difundida de garantia de cumprimento dos requisitos de um sistema é o teste 
+de software. Apesar de trazerem indispensáveis benefícios ao processo de construção de 
+software, os testes de software ainda são atividades extremamente manuais, repetitivas e, por 
+vezes, artesanais. 
+O uso de modelos formais para descrever o comportamento e a estrutura de um sistema 
+são técnicas baseadas na matemática, comprovadas e aceitas, que em muito acrescentam na 
+tarefa de caracterizar de forma precisa e não ambígua um sistema. A disciplina de testes baseados 
+em modelos compreende uma técnica onde os testes a serem realizados são definidos 
+automaticamente a partir do modelo da aplicação. 
+Uma das formas de realizar as ideias presentes na técnica de testes baseados em modelos, 
+tirando proveito do reuso de componentes similares de software a fim de diminuir o esforço sem 
+perder qualidade é a engenharia de linha de produto de software. 
+O presente trabalho busca aliar técnicas de geração de testes baseados em modelos 
+formais a técnicas de engenharia de linha de produto de software, a fim de automatizar etapas 
+manuais da geração e execução de casos de teste. Dessa forma, é proposta uma arquitetura 
+baseada nos conceitos citados, e concretizada através da implementação de uma ferramenta 
+baseada no conceito de plug-ins, a fim de validar a ideia proposta. 
+
+ARTIGO 17
+Título: Uso de Modelos de Linguagem de Grande
+Escala (LLMs) para Automação da Geração
+de Casos de Testes Unitários em Software
+Autor: ADRIANOGEBERTGOMES
+Resumo: O planejamento e a realização de testes de software desempenham papel fundamental para
+garantir a qualidade de sistemas, considerando aspectos como confiabilidade, usabilidade,
+desempenho e tolerância a falhas. Contudo, as atividades envolvendo testes de software
+demandam esforços e custos significativos, além de desafios para a obtenção de níveis
+adequados de cobertura. Neste contexto, este trabalho investigou o uso de LLMs no apoio
+à geração automática de casos de teste unitários, com o objetivo de reduzir o esforço e
+ampliar o nível de cobertura. Para esse fim, foi desenvolvida uma ferramenta MVP em
+linguagem Python para apoio à geração automática de testes utilizando o modelo de LLM
+Gemini 2.0. Avalidação da proposta foi realizada por meio de um estudo de caso aplicado
+a um sistema de agendamento de clínica veterinária, desenvolvido em linguagem PHP
+utilizando o framework Yii 2.0. A avaliação considerou como métricas de comparação
+entre a abordagem manual e a abordagem automatizada com o apoio da LLM, o tempo
+de geração dos casos de teste e as taxas de cobertura obtidas, incluindo as coberturas
+de linhas e métodos. Os resultados indicaram que a ferramenta apresentou desempenho
+superior no tempo de geração automática dos casos de teste com apoio da LLM, quando
+comparada ao processo de desenvolvimento manual. Contudo, limitações observadas
+durante o experimento sugeriram que o uso de inteligência artificial não substituiu o papel
+do profissional de tecnologia da informação, mas se mostrou como um complemento
+para reduzir esforços, custos e contribuir para a melhoria da qualidade das aplicações de
+software Web.
+
+
+ARTIGO 18
+Título: Geração Automática de Teste Unitário com
+Cobertura de Código Otimizada
+Integração no Frama-C
+Autor: Nuno Miguel Apolinário Leitão
+Resumo: O teste de software é o principal modo de veri car a correção deste. Normalmente constitui
+50% do seu custo de desenvolvimento. Existem diversas estratégias de teste de software mas,
+nesta dissertação, é essencialmente abordado o teste unitário, uma forma de teste que per
+mite a análise de pequenos componentes individuais do sistema (funções, classes ou módulos).
+O seu principal objetivo é detetar erros lógicos nos componentes, veri car corner cases e tentar
+obter a maior cobertura de código testado possível. O grande problema desta abordagem é ser,
+normalmente, um processo manual, o que por sua vez o torna dispendioso, propício a erros e
+bastante demorado. Portanto seria uma mais valia conseguir automatizar o processo de geração
+e execução do teste unitário com uma elevada cobertura de código.
+Nesta dissertação é apresentado e explorado o conceito de testes Concolic com o intuito de
+permitir ultrapassar algumas das limitações anteriormente mencionadas. O teste Concolic junta
+duas técnicas de teste de software: teste com valores concretos e simbólicos simultaneamente.
+Atualmente existem várias ferramentas que permitem realizar este tipo de teste de software e
+esta dissertação inspira-se sobre uma delas.
+O principal foco desta dissertação foi a exploração e possível integração de uma ferramenta
+de teste Concolic no Frama-C. O Frama-C, implementado em Objective Caml (Ocaml), disponi
+biliza um conjunto de ferramentas dedicadas a análise de código C. Fornece várias técnicas
+de análise estática numa única framework e é usado atualmente por empresas como Airbus e
+Dassault Aviation.
+Deste modo foram analisadas e estudadas um conjunto de ferramentas que permitissem realizar
+teste Concolic. Posteriormente foi escolhida uma ferramenta (Crest) com o intuito adaptar os
+seus processo à plataforma Frama-C e à respetiva implementação em Ocaml. Esta ferramenta
+permite a execução de testes Concolic de programas desenvolvidos na Linguagem C e contempla
+várias etapas:
+1. Inicialmente é feita automaticamente a instrumentação do código, isto é, altera-se o
+código original para um código que realize chamadas a funções que permitam a sua exe
+cução simbólica. Se o programa for fornecido com valores concretos, este produz o mesmo
+output que o original. Esta etapa é feita através do Common Intermediate Language (CIL).
+2. Finda a instrumentação é feito um ciclo de execução em que são armazenadas um con
+junto de restrições das várias condições encontradas. Estas condições são armazenadas
+e posteriormente resolvidas, fazendo uso do Yices, e assim gerar novos valores para, na
+próxima execução, percorrer diferentes caminhos.
+O resultado nal desta dissertação contempla a adaptação dos principais funamentos do Crest
+a uma implementação OCaml e respetiva integração em Frama-C. Todas as etapas foram imple
+mentadas desde as várias etapas da instrumentação à execução dos testes, geração automática
+de inputs e integração no Frama-C.
+
+ARTIGO 19
+Título: MÉTODOS PARA GARANTIR A QUALIDADE DO SOFTWARE E MELHORAR A 
+COBERTURA E EFICIÊNCIA DOS TESTES AUTOMATIZADOS.
+Autor: FLÁVIA ISHIZAKI BROCANELLA WITTER, JULIA CAROLINA DA SILVA SOUSA, MARIÂNGELA FERREIRA FUENTES MOLINA
+Resumo: Este artigo aborda métodos para garantir a qualidade do software com foco na melhoria da 
+cobertura e eficiência dos testes automatizados. Com sistemas cada vez mais complexos, a 
+garantia da sua qualidade a partir da implementação de testes robustos se torna algo 
+essencial para garantir sua confiabilidade. O objetivo principal é apresentar e analisar 
+diferentes métodos que facilitam a implementação de testes automatizados e buscar 
+demonstrar como essas práticas contribuem para a detecção precoce de falhas, 
+aumentando a credibilidade do sistema. Por fim, o artigo conclui que a adoção dessas 
+abordagens, em conjunto com um ciclo contínuo de adaptação e aprendizado, é crucial para 
+tornar a melhoria da qualidade do software uma prática natural no processo de 
+desenvolvimento, maximizando os benefícios da automação de testes.
+
+ARTIGO 20
+Título: A UTILIZAÇÃO DE TESTES AUTOMATIZADOS NO 
+DESENVOLVIMENTO DE SOFTWARE
+Autor: Cleber Spirlandeli, Carlos Eduardo de França Roland
+Resumo: Desenvolver software é uma atividade que exige concentração e atenção a detalhes, 
+e muitas vezes, dada a complexidade das regras a serem implementadas no código, 
+falhas de lógica passam despercebidas. Com o objetivo de tornar o exercício da 
+programação mais fácil e seguro, foram criadas ferramentas de automação de testes 
+de software que são o objeto desta pesquisa. Buscou-se, através de pesquisa 
+bibliográfica exploratória e estudo de caso, aprofundar o conhecimento sobre os 
+conceitos de Desenvolvimento Guiado por Testes, e das características e utilização 
+de uma das ferramentas disponíveis no mercado para implementar testes 
+automatizados. Com o objetivo de se aplicar os métodos de testes, adotou-se a 
+implementação em um caso real. Foram utilizadas as principais referências mundiais 
+sobre os tópicos relacionados ao tema, bem como estudado o framework de testes 
+Jest.JS. A partir do entendimento de como se aplicar a ferramenta buscou-se 
+implementar rotinas de testes para se verificar e entender os resultados oferecidos 
+pelos processos. Considera-se que a pesquisa alcançou seus objetivos como 
+apresentado e discutido neste artigo, e que ampliou a visão dos autores sobre o uso 
+de TDD no desenvolvimento de software. 

@@ -1,0 +1,21 @@
+DocId;Titulo;Autor;TotalTermosSignificativos
+1;Teste de Software: o que e como é ensinado?;Fabiane Barreto Vavassori Benitti, Edson Lucas Albano;53
+2;Uma Abordagem de Avaliação de Qualidade de Aplicações Web;Edson Andrade de Moraes,Vera Maria Benjamim Werneck;57
+3;Um Modelo para Avaliação da Qualidade da Gerência de Projetos de Software;Eliseu Castelo Branco Júnior, Arnaldo Dias Belchior;51
+4;Aplicação de Métricas de Manutebilidade na Re-fatoração de Softwares;Bruno Nascimento Ferreira, Júlio Arakaki;105
+5;Do Code Smell ao Código Limpo: Uma Experiencia Pratica no Ensino de Refatoracao para Manutencao de Software;Jo˜ ao Teixeira do Nascimento, Caio Rian R. de Sousa, Lara Gabrielly Lima, Edivar C. Carvalho Filho, Guilherme P. Borges, Jacilane H. Rabelo, Carla Ilane Moreira Bezerra;67
+6;Priorização de requisitos e avaliação da qualidade de software segundo a percepção dos usuários;Aline Gomes Cordeiro, André Luís Policani Freitas;102
+7;Uma Ontologia de Qualidade de Software;Katia Cristina Duarte, Ricardo de Almeida Falbo;41
+8;Entendendo a relação entre integração contínua e cobertura de código;José Diego Saraiva da Silva;189
+9;Uma abordagem para análise de cobertura de código em cenários de evolução;Fladson Thiago Oliveira Gomes;113
+10;Comparac¸˜ ao de ferramentas de an´ alise est´ atica para detecc¸˜ ao de defeitos de software usando mutantes;Yury Alencar Lima, Igor Oliveira Fonseca, Jonas M. Chagas, Elder de Macedo Rodrigues, Maicon Bernardino da Silveira, Jo˜ ao Pablo S. da Silva;73
+11;UmMapeamento Sistemático sobre Técnicas de Classificação e Categorização de Bugs em Software;Igor Ramsés Temóteo dos Santos, Laís Carvalho Coutinho, Samuel Sousa Teles, Rubens Abraão da Silva Sousa, Manoel Lopes Filho, Ronaldo Tadeu Pontes Milfont, Alex Lacerda Ramos;98
+12;Detecção automática de falhas em software JavaScript: Uma revisão sistemática da literatura;Charles Mendes de Macedo, Karina Valdivia Delgado, Igor Wiese;106
+13;A APLICAÇÃO DE LLMS NA DETECÇÃO E CORREÇÃO DE BUGS: Uma revisão da literatura;"Gabriel R. RODRIGUES; Paulo C. SANTOS";75
+14;“Geração automática de casos de testes executáveis a partir de casos de teste abstratos para aplicações web;Érika Regina Campos de Almeida;202
+15;Seleção de Técnicas de Teste Baseado em Modelos;Arilo Claudio Dias Neto, Guilherme Horta Travassos;64
+16;AUTOMAÇÃO DE TESTE DE SOFTWARE ATRAVÉS DE LINHAS DE PRODUTOS E TESTES BASEADOS EM MODELOS;LEONARDO DAVI VICCARI;125
+17;Uso de Modelos de Linguagem de Grande Escala (LLMs) para Automação da Geração de Casos de Testes Unitários em Software;ADRIANOGEBERTGOMES;133
+18;Geração Automática de Teste Unitário com Cobertura de Código Otimizada Integração no Frama-C;Nuno Miguel Apolinário Leitão;250
+19;MÉTODOS PARA GARANTIR A QUALIDADE DO SOFTWARE E MELHORAR A COBERTURA E EFICIÊNCIA DOS TESTES AUTOMATIZADOS.;FLÁVIA ISHIZAKI BROCANELLA WITTER, JULIA CAROLINA DA SILVA SOUSA, MARIÂNGELA FERREIRA FUENTES MOLINA;64
+20;A UTILIZAÇÃO DE TESTES AUTOMATIZADOS NO DESENVOLVIMENTO DE SOFTWARE;Cleber Spirlandeli, Carlos Eduardo de França Roland;97
