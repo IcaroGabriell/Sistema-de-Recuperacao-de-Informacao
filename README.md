@@ -32,7 +32,13 @@ O sistema realiza consultas em uma coleção de 20 artigos acadêmicos sobre Eng
    cd Sistema-de-Recuperacao-de-Informacao/Projeto
    ```
 
-3. Execute a interface:
+3. Execute a indexação para gerar ou atualizar os arquivos auxiliares:
+
+   ```bash
+   python main.py
+   ```
+
+4. Inicie a interface gráfica:
 
    ```bash
    python interface.py
@@ -42,7 +48,7 @@ Certifique-se de que as pastas `artigos/` e `vocabularios/`, além dos arquivos 
 
 ## Relatório
 
-O relatório acadêmico, com a descrição do desenvolvimento e os resultados do projeto, está disponível neste repositório em [📄 Relatório do projeto](./SRI_Relatorio.pdf)
+O relatório acadêmico do projeto, que contém a fundamentação teórica, a implementação, a metodologia de avaliação, os resultados e as conclusões, está disponível neste repositório em [SRI_Relatório](./SRI_Relatório.pdf).
 
 ## Autores
 
